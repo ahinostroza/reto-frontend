@@ -1,0 +1,12 @@
+#table-user {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-user {
+    width: 25%;
+}
+
+p {
+    color: green;
+}
